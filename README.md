@@ -1,3 +1,5 @@
-Meu primeiro sistema no git
+Meu segundo sistema no git
 
-Alteração feita no master.
+Alteração feita em branch master.
+
+Inserindo uma nova linha no sistema legal.
